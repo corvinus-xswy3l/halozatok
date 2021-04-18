@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\cv.html" />
+    <None Include="wwwroot\kerdesek.html" />
   </ItemGroup>
 
 </Project>
